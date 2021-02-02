@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Nikita Glazkov 👋
 
 <!--
 **Glazkoff/Glazkoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=Glazkoff.Glazkoff)
 
 Here are some ideas to get you started:
 
