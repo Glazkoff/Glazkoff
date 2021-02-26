@@ -20,8 +20,7 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 mins         ██████████████████████▒░░   89.34 % 
-Python       1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
