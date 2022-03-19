@@ -21,11 +21,11 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       9 hrs 39 mins   ██████████████▒░░░░░░░░░░   56.70 %
-Python       4 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.96 %
-JavaScript   1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-JSON         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-GraphQL      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Vue.js       9 hrs 2 mins    ██████████████░░░░░░░░░░░   55.72 %
+Python       5 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.96 %
+JavaScript   1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+GraphQL      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
