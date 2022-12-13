@@ -22,12 +22,11 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 <!--START_SECTION:waka-->
 
 ```text
-Python        18 hrs 20 mins  ███████████░░░░░░░░░░░░░░   44.60 %
-Scala         7 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.07 %
-C++           6 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Markdown      5 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-INI           1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python        17 hrs 2 mins   ██████████░░░░░░░░░░░░░░░   40.04 %
+Scala         9 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
+Markdown      6 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+C++           5 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Other         1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
