@@ -22,9 +22,8 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 <!--START_SECTION:waka-->
 
 ```text
-Python   1 hr 39 mins    █████████████░░░░░░░░░░░░   52.51 %
-SQL      1 hr 24 mins    ███████████▒░░░░░░░░░░░░░   44.99 %
-HTML     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+SQL    1 hr 24 mins    ███████████████████████▓░   94.74 %
+HTML   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
