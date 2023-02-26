@@ -22,9 +22,9 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 <!--START_SECTION:waka-->
 
 ```text
-Go           14 hrs 43 mins  ███████████░░░░░░░░░░░░░░   43.76 %
-Scala        13 hrs 46 mins  ██████████▒░░░░░░░░░░░░░░   40.90 %
-Other        2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Go           14 hrs 43 mins  ██████████▓░░░░░░░░░░░░░░   42.64 %
+Scala        13 hrs 46 mins  ██████████░░░░░░░░░░░░░░░   39.86 %
+Other        2 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
 ```
 
 <!--END_SECTION:waka-->
