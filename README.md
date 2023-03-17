@@ -22,11 +22,11 @@ I am a full-stack software engineer. I love programming, writing, speaking, stud
 <!--START_SECTION:waka-->
 
 ```text
-Go           12 hrs 26 mins  █████████████████████░░░░   84.02 %
-TypeScript   1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
-YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Vue.js       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Go           12 hrs 47 mins  █████████████████████░░░░   84.00 %
+TypeScript   1 hr 44 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Vue.js       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Python       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 TSConfig     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
